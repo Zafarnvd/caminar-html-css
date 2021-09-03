@@ -1,0 +1,30 @@
+body{
+    background-image:url(../../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* header */
+header h2{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    padding-top: 40px;
+    color: white;
+}
+header span{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    color: white;
+}
+header p{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-bottom: 30px;
+}
